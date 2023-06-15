@@ -1,0 +1,13 @@
+{
+  "name": "orange-rproxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.18.0"
+  },
+  "scripts": {
+    "dev": "node server.js",
+    "start": "pm2 start server.js"
+  }
+}
