@@ -1,8 +1,8 @@
-# Orange-rproxy
+# sfang-rproxy
 
 reverse proxy for reverse proxy, a reverse proxy inception if you will. 
 
-This is a reverse proxy for pawan.krd to be able to access from any ip, circumventing the 1 ip per key.
+This is a reverse proxy for pawan.krd to be able to access from any ip, circumventing the 1 ip per key. Built for use with sfang.js
 
 ## Usage
 ```
