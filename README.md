@@ -45,3 +45,7 @@ The request body
 Expected response:
 { status: true, message: 'IP reset successfully!' }
 ```
+
+## TODO
+- [ ] rewrite in typescript
+- [ ] add more endpoints/host own model
